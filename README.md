@@ -1,7 +1,7 @@
 
 在原 jd-gui 基础上，增加直接处理 apk 文件的功能，即把 apkName.apk 文件拖到 jd-gui 窗口中，就能在 apkName.apk 所在目录解压到 apkName 目录，并调用 dex2jar 的代码得到 classes.jar 文件， 然后把 classes.jar 传给 jd-gui 处理。
 
-[下载可执行文件]()
+[下载可执行文件](https://github.com/Tao93/jd-gui/releases)
 
 注意：
 1. 只支持拖拽 .apk 文件，不支持在文件选择器里面选择 .apk 文件。
